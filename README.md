@@ -1,1 +1,2 @@
 # MayhemPages
+Code for redirection
